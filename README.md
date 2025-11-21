@@ -29,4 +29,4 @@
 
 ---
 
-Obrigado por visitar meu GitHub! 🚀
+Obrigado por visitar meu GitHub!
